@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Sprites/Assets/Scenes/1_Main_Menu.unity
+    guid: edaf3197b5b6489409bda11185948c4a
+  - enabled: 1
+    path: Assets/Sprites/Assets/Scenes/2_Loading_Screen.unity
+    guid: 7fa53052d9564cf4d96de763cda15d2c
+  - enabled: 1
+    path: Assets/Sprites/Assets/Scenes/Bozuk.unity
+    guid: d8a8abac6bbf1f143a2abf20253a72c0
+  m_configObjects: {}
